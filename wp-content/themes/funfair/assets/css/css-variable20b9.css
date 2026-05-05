@@ -1,0 +1,16 @@
+body{
+	--e-global-color-primary					: #133D3C;
+	--e-global-color-secondary					: #F6EFE7;
+	--e-global-color-text						: #426463;
+	--e-global-color-accent						: #F4B72A;
+	--e-global-color-accentsecondary			: transparent;
+	--e-global-color-white						: #FFFFFF;
+	--e-global-color-black						: #000000;
+	--e-global-color-divider					: #133D3C1A;
+	--e-global-color-darkdivider				: #FFFFFF1A;
+	--e-global-color-background             	: #FFFFFF;
+	--e-global-typography-primary-font-family	: "Outfit", sans-serif;
+	--e-global-typography-secondary-font-family	: "Outfit", sans-serif;
+	--e-global-typography-text-font-family		: "Outfit", sans-serif;
+	--e-global-typography-accent-font-family    : "Outfit", sans-serif;
+}
